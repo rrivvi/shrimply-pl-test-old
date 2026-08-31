@@ -12,6 +12,7 @@ ja = "%{count}件のエフェクトを貼り付けました"
 "ru" = "Вставлено эффектов: %{count}"
 pt = "%{count} efeitos colados"
 tr = "%{count} efekt yapıştırıldı"
+pl = "Wklejono efektów: %{count}"
 
 ["1 effect pasted"]
 en = "1 effect pasted"
@@ -25,6 +26,7 @@ ja = "エフェクトを1件貼り付けました"
 "ru" = "Вставлен 1 эффект"
 pt = "1 efeito colado"
 tr = "1 efekt yapıştırıldı"
+pl = "Wklejono 1 efekt"
 
 ["Alpha"]
 en = "Alpha"
@@ -38,6 +40,7 @@ ja = "アルファ"
 "ru" = "Альфа"
 pt = "Alfa"
 tr = "Alfa"
+pl = "Alfa"
 
 ["Appearance"]
 en = "Appearance"
@@ -51,6 +54,7 @@ ja = "外観"
 "ru" = "Внешний вид"
 pt = "Aparência"
 tr = "Görünüm"
+pl = "Wygląd"
 
 ["Apply"]
 en = "Apply"
@@ -64,6 +68,7 @@ ja = "適用"
 "ru" = "Применить"
 pt = "Aplicar"
 tr = "Uygula"
+pl = "Zastosuj"
 
 ["Audio"]
 en = "Audio"
@@ -77,6 +82,7 @@ ja = "オーディオ"
 "ru" = "Аудио"
 pt = "Áudio"
 tr = "Ses"
+pl = "Dźwięk"
 
 ["Audio Generator"]
 en = "Audio Generator"
@@ -90,6 +96,7 @@ ja = "オーディオジェネレーター"
 "ru" = "Генератор аудио"
 pt = "Gerador de áudio"
 tr = "Ses Üreteci"
+pl = "Generator dźwięku"
 
 ["Audio Track"]
 en = "Audio Track"
@@ -103,6 +110,7 @@ ja = "オーディオトラック"
 "ru" = "Аудиодорожка"
 pt = "Faixa de áudio"
 tr = "Ses Parçası"
+pl = "Ścieżka dźwiękowa"
 
 ["Background"]
 en = "Background"
@@ -116,6 +124,7 @@ ja = "背景"
 "ru" = "Фон"
 pt = "Fundo"
 tr = "Arka Plan"
+pl = "Tło"
 
 ["Cancel"]
 en = "Cancel"
@@ -129,6 +138,7 @@ ja = "キャンセル"
 "ru" = "Отмена"
 pt = "Cancelar"
 tr = "İptal"
+pl = "Anuluj"
 
 ["Cancelled"]
 en = "Cancelled"
@@ -142,6 +152,7 @@ ja = "キャンセル済み"
 "ru" = "Отменено"
 pt = "Cancelado"
 tr = "İptal Edildi"
+pl = "Anulowano"
 
 ["Cancelling…"]
 en = "Cancelling…"
@@ -155,6 +166,7 @@ ja = "キャンセル中…"
 "ru" = "Отмена…"
 pt = "Cancelando…"
 tr = "İptal Ediliyor"
+pl = "Anulowanie…"
 
 ["Caption"]
 en = "Caption"
@@ -168,6 +180,7 @@ ja = "字幕"
 "ru" = "Субтитры"
 pt = "Legenda"
 tr = "Alt Yazı"
+pl = "Napisy"
 
 ["Caption Track"]
 en = "Caption Track"
@@ -181,6 +194,7 @@ ja = "字幕トラック"
 "ru" = "Дорожка субтитров"
 pt = "Faixa de legendas"
 tr = "Alt Yazı Parçası"
+pl = "Ścieżka napisów"
 
 ["Choose…"]
 en = "Choose…"
@@ -194,6 +208,7 @@ ja = "選択…"
 "ru" = "Выбрать…"
 pt = "Escolher…"
 tr = "Seç…"
+pl = "Wybierz…"
 
 ["Clear"]
 en = "Clear"
@@ -207,6 +222,7 @@ ja = "クリア"
 "ru" = "Очистить"
 pt = "Limpar"
 tr = "Temizle"
+pl = "Wyczyść"
 
 ["Close"]
 en = "Close"
@@ -220,6 +236,7 @@ ja = "閉じる"
 "ru" = "Закрыть"
 pt = "Fechar"
 tr = "Kapat"
+pl = "Zamknij"
 
 ["Copy"]
 en = "Copy"
@@ -233,6 +250,7 @@ ja = "コピー"
 "ru" = "Копировать"
 pt = "Copiar"
 tr = "Kopyala"
+pl = "Kopiuj"
 
 ["Custom"]
 en = "Custom"
@@ -246,6 +264,7 @@ ja = "カスタム"
 "ru" = "Пользовательский"
 pt = "Personalizado"
 tr = "Özel"
+pl = "Niestandardowe"
 
 ["Delete"]
 en = "Delete"
@@ -259,6 +278,7 @@ ja = "削除"
 "ru" = "Удалить"
 pt = "Excluir"
 tr = "Sil"
+pl = "Usuń"
 
 ["Discard"]
 en = "Discard"
@@ -272,6 +292,7 @@ ja = "破棄"
 "ru" = "Отменить"
 pt = "Descartar"
 tr = "Vazgeç"
+pl = "Odrzuć"
 
 ["Format"]
 en = "Format"
@@ -285,6 +306,7 @@ ja = "形式"
 "ru" = "Формат"
 pt = "Formato"
 tr = "Format"
+pl = "Format"
 
 ["Frame Rate"]
 en = "Frame Rate"
@@ -298,6 +320,7 @@ ja = "フレームレート"
 "ru" = "Частота кадров"
 pt = "Taxa de quadros"
 tr = "Kare Hızı"
+pl = "Klatki na sekundę"
 
 ["Frame rate"]
 en = "Frame rate"
@@ -311,6 +334,7 @@ ja = "フレームレート"
 "ru" = "Частота кадров"
 pt = "Taxa de quadros"
 tr = "Kare hızı"
+pl = "Klatki na sekundę"
 
 ["Hue"]
 en = "Hue"
@@ -324,6 +348,7 @@ ja = "色相"
 "ru" = "Оттенок"
 pt = "Matiz"
 tr = "Ton"
+pl = "Odcień"
 
 ["Info"]
 en = "Info"
@@ -337,6 +362,7 @@ ja = "情報"
 "ru" = "Информация"
 pt = "Informações"
 tr = "Bilgi"
+pl = "Informacje"
 
 ["Model"]
 en = "Model"
@@ -350,6 +376,7 @@ ja = "モデル"
 "ru" = "Модель"
 pt = "Modelo"
 tr = "Model"
+pl = "Model"
 
 ["New Track"]
 en = "New Track"
@@ -363,6 +390,7 @@ ja = "新規トラック"
 "ru" = "Новая дорожка"
 pt = "Nova faixa"
 tr = "Yeni Parça"
+pl = "Nowa ścieżka"
 
 ["None"]
 en = "None"
@@ -376,6 +404,7 @@ ja = "なし"
 "ru" = "Нет"
 pt = "Nenhum"
 tr = "Hiçbiri"
+pl = "Brak"
 
 ["Output"]
 en = "Output"
@@ -389,6 +418,7 @@ ja = "出力"
 "ru" = "Вывод"
 pt = "Saída"
 tr = "Çıktı"
+pl = "Wyjście"
 
 ["Padding"]
 en = "Padding"
@@ -402,6 +432,7 @@ ja = "余白"
 "ru" = "Отступ"
 pt = "Preenchimento"
 tr = "İç Boşluk"
+pl = "Odstęp"
 
 ["Paint"]
 en = "Paint"
@@ -415,6 +446,7 @@ ja = "ペイント"
 "ru" = "Рисование"
 pt = "Pintura"
 tr = "Çizim"
+pl = "Malowanie"
 
 ["Performance"]
 en = "Performance"
@@ -428,6 +460,7 @@ ja = "パフォーマンス"
 "ru" = "Производительность"
 pt = "Desempenho"
 tr = "Performans"
+pl = "Wydajność"
 
 ["Preset"]
 en = "Preset"
@@ -441,6 +474,7 @@ ja = "プリセット"
 "ru" = "Пресет"
 pt = "Predefinição"
 tr = "Ön Ayar"
+pl = "Preset"
 
 ["Sending request…"]
 en = "Sending request…"
@@ -454,6 +488,7 @@ ja = "リクエストを送信中…"
 "ru" = "Отправка запроса…"
 pt = "Enviando solicitação…"
 tr = "İstek gönderiliyor…"
+pl = "Wysyłanie żądania…"
 
 ["Shape"]
 en = "Shape"
@@ -467,6 +502,7 @@ ja = "図形"
 "ru" = "Фигура"
 pt = "Forma"
 tr = "Şekil"
+pl = "Kształt"
 
 ["Speed"]
 en = "Speed"
@@ -480,6 +516,7 @@ ja = "速度"
 "ru" = "Скорость"
 pt = "Velocidade"
 tr = "Hız"
+pl = "Prędkość"
 
 ["Text"]
 en = "Text"
@@ -493,6 +530,7 @@ ja = "テキスト"
 "ru" = "Текст"
 pt = "Texto"
 tr = "Metin"
+pl = "Tekst"
 
 ["Text to Speech"]
 en = "Text to Speech"
@@ -506,6 +544,7 @@ ja = "音声読み上げ"
 "ru" = "Озвучивание текста"
 pt = "Texto para fala"
 tr = "Metinden Sese"
+pl = "Zamiana tekstu na mowę"
 
 ["Version"]
 en = "Version"
@@ -519,6 +558,7 @@ ja = "バージョン"
 "ru" = "Версия"
 pt = "Versão"
 tr = "Sürüm"
+pl = "Wersja"
 
 ["Video"]
 en = "Video"
@@ -532,6 +572,7 @@ ja = "ビデオ"
 "ru" = "Видео"
 pt = "Vídeo"
 tr = "Video"
+pl = "Wideo"
 
 ["Video Generation"]
 en = "Video Generation"
@@ -545,6 +586,7 @@ ja = "ビデオ生成"
 "ru" = "Генерация видео"
 pt = "Geração de vídeo"
 tr = "Video Üreteci"
+pl = "Generowanie wideo"
 
 ["Video Track"]
 en = "Video Track"
@@ -558,6 +600,7 @@ ja = "ビデオトラック"
 "ru" = "Видеодорожка"
 pt = "Faixa de vídeo"
 tr = "Video Parçası"
+pl = "Ścieżka wideo"
 
 ["Width"]
 en = "Width"
@@ -571,3 +614,4 @@ ja = "幅"
 "ru" = "Ширина"
 pt = "Largura"
 tr = "Genişlik"
+pl = "Szerokość"
