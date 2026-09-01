@@ -460,7 +460,7 @@ ja = "オーディオストリーム %{number}"
 "ru" = "Аудиопоток %{number}"
 pt = "Fluxo de áudio %{number}"
 tr = "Ses akışı %{number}"
-tr = "Strumień audio %{number}"
+pl = "Strumień audio %{number}"
 
 ["Auto level"]
 en = "Auto level"
@@ -1510,7 +1510,7 @@ ja = "等加速度ウェイト"
 "ru" = "Вес постоянного ускорения"
 pt = "Peso de aceleração constante"
 tr = "Sabit hızlandırma ağırlığı"
-pl - "Waga stałego przyśpieszenia"
+pl = "Waga stałego przyśpieszenia"
 
 ["Constant-motion weight"]
 en = "Constant-motion weight"
@@ -5406,7 +5406,7 @@ ja = "準備完了（%{sample_count}サンプル）"
 "ko" = "준비됨(%{sample_count}개 샘플)"
 "ru" = "Готово (%{sample_count} сэмплов)"
 pt = "Pronto (%{sample_count} amostras)"
-pt = "Gotowe (%{sample_count} próbek)"
+pl = "Gotowe (%{sample_count} próbek)"
 
 ["Reanalyze"]
 en = "Reanalyze"
